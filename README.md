@@ -79,7 +79,7 @@ Crafting performant Minecraft plugins, scalable Discord bots, and modern web sol
 
 ---
 
-## 📬 Contact
+## 📬 Contact Me
 
 - 📧 Email: **neonjavadev@gmail.com**
 - 🐙 GitHub: **neonjavadev**
