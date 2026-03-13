@@ -67,17 +67,6 @@ Crafting performant Minecraft plugins, scalable Discord bots, and modern web sol
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=neonjavadev&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=neonjavadev&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
 
 ## 📬 Contact Me
 
