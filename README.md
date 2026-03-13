@@ -73,6 +73,7 @@ Crafting performant Minecraft plugins, scalable Discord bots, and modern web sol
 - 📧 Email: **neonjavadev@gmail.com**
 - 🐙 GitHub: **neonjavadev**
 - 📸 Instagram: **@hemanthsp.dev**
+- 🔵 discord: **hemanthsp.dev**
 
 ---
 
